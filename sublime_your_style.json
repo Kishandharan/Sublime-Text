@@ -26,7 +26,7 @@
     "globals":
     {
         "foreground": "white",
-        "background": "#010f1c",
+        "background": "#00001F",
         "accent": "var(blue-vibrant)",
         "caret": "var(orange)",
         "line_highlight": "var(blue2)",
