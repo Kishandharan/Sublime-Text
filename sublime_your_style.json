@@ -26,7 +26,7 @@
     "globals":
     {
         "foreground": "var(white3)",
-        "background": "#010133",
+        "background": "#020030",
         "accent": "var(blue-vibrant)",
         "caret": "var(orange)",
         "line_highlight": "var(blue2)",
@@ -57,7 +57,7 @@
         {
             "name": "String",
             "scope": "string",
-            "foreground": "#2c9c03"
+            "foreground": "#16a603"
         },
         {
             "name": "Punctuation",
@@ -167,7 +167,7 @@
         {
             "name": "Tag name",
             "scope": "entity.name.tag",
-            "foreground": "#ed4e56"
+            "foreground": "#e84f57"
         },
         {
             "name": "Tag attribute",
