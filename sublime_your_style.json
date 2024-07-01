@@ -133,7 +133,7 @@
         {
             "name": "Tag name",
             "scope": "entity.name.tag | meta.mapping.key string.unquoted",
-            "foreground": "#f54958"
+            "foreground": "#fc5353"
         },
         {
             "name": "Tag attribute",
