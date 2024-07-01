@@ -1,8 +1,8 @@
 {
  "color_scheme": "Monokai.sublime-color-scheme",
-  "theme": "Default Dark.sublime-theme",
+  "theme": "Adaptive.sublime-theme",
 	/*"font_size": 21,*/
-	"font_face": "Cascadia Mono SemiLight",
+	"font_face": "Fira Code",
 	"ignored_packages":
 	[
 		"Vintage",
@@ -11,7 +11,7 @@
 	"index_files": true,
 	"dark_color_scheme": "Mariana.sublime-color-scheme",
 	"light_color_scheme": "Breakers.sublime-color-scheme",
-	"font_size": 22,
+	"font_size": 20,
 	"line_padding_bottom": 0,
     "line_padding_top": 0,
 }
