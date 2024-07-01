@@ -1,1 +1,1 @@
-consolas
+Cascadia Mono SemiLight
