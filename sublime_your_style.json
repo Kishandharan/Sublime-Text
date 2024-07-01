@@ -26,8 +26,8 @@
     "globals":
     {
         "foreground": "var(white3)",
-        "background": "#1b1c18",
-        "caret": "color(var(white2) alpha(0.9))",
+        "background": "#030236",
+        "caret": "color(#ff0000 alpha(0.9))",
         "block_caret": "color(var(white2) alpha(0.2))",
         "block_caret_border": "color(var(white2) alpha(0.8))",
         "invisibles": "color(var(white3) alpha(0.35))",
@@ -133,7 +133,7 @@
         {
             "name": "Tag name",
             "scope": "entity.name.tag | meta.mapping.key string.unquoted",
-            "foreground": "var(red2)"
+            "foreground": "#f54958"
         },
         {
             "name": "Tag attribute",
