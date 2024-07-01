@@ -1,1 +1,1 @@
-Cascadia Mono SemiLight
+Fira Code
